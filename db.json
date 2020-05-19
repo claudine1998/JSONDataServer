@@ -1,5 +1,5 @@
 {
   "posts": [
-    { "username": "claudine", "password": "123" }
+    { "id": 0, "username": "claudine", "password": "123" }
   ]
 }
