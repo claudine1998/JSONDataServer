@@ -1,45 +1,5 @@
 {
-    "users": [{
-            "id": 0,
-            "fname": "Alma Claudine",
-            "lname": "Baluyot",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        },
-        {
-            "id": 1,
-            "fname": "Alma Cladys",
-            "lname": "Baluyot",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        },
-        {
-            "id": 2,
-            "fname": "Kenn",
-            "lname": "Baluyot",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        },
-        {
-            "id": 3,
-            "fname": "Kaia",
-            "lname": "Baluyot",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        },
-        {
-            "id": 4,
-            "fname": "Michael Hendrix",
-            "lname": "Candame",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        },
-        {
-            "id": 5,
-            "fname": "Aaron",
-            "lname": "Candame",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        },
-        {
-            "id": 6,
-            "fname": "Pinky Joy",
-            "lname": "Cabasag",
-			"url": "http://placeimg.com/200/249/people?t=1586927582592"
-        }
-    ]
+  "posts": [
+    { "username": "claudine", "password": "123" }
+  ]
 }
